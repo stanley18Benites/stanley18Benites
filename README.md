@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley18Benites&show_icons=true&theme=dracula)
 
-## Tecnologias que utilizou no dia a dia 
+## Tecnologias que utilizo no dia a dia 
 ![DELPHI](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
